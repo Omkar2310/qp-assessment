@@ -6,4 +6,4 @@ the products and addToCart.
 # Sign-in & Sign-Up
 The user can be created using this function.
 
-![API Document] (API.pdf)
+[API Document] (API.pdf)
